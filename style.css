@@ -1,0 +1,57 @@
+body{
+	height:1500px;
+	background: #EEE;
+}
+
+.navbar {
+	min-height: 20px; 
+    background-color: #3B5998;
+}
+.navSearch{
+	
+	margin-left: 100px;
+}
+#searchArea{
+	width: 400px;
+	height: 27px;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 4px;
+
+}
+.newPost{
+	width: 500px;
+	height: 150px;
+	background: white;
+	margin-top: 60px; 
+	margin-left: 250px;
+	border-radius: 3px;
+	border: 1px solid #CCC;
+}
+.leftTable{
+	float: left;
+	width: 180px;
+	height: 700px;
+}
+.leftTable ul{
+	list-style-type: none;
+}
+.leftTable span{
+	margin-left: 40px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #404040;
+}
+.leftTable ul li a{
+	color: #000;
+	margin: 2px;
+	font-size: 13px;
+	text-decoration: none;
+}
+.newPost #first{
+	width: 480px;
+}
+.newPost .photo{
+	margin-left: 10px;
+	margin-top: 7px;
+}
